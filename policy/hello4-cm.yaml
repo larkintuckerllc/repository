@@ -1,8 +1,0 @@
-apiVersion: v1
-kind: ConfigMap
-metadata:
-  name: hello4
-  namespace: hello2
-data:
-  hello: "world4"
-
